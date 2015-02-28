@@ -56,8 +56,8 @@
         botName: "Ch!llbot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupCap: 20, // 1-200
+        startupVolume: 50, // 0-100
         startupEmoji: false, // true or false
         maximumAfk: 120,
         afkRemoval: true,
